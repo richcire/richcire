@@ -8,7 +8,7 @@
 
 # Hello, I'm Eric Yeon
 ### Creative and passionate Web Front-end Developer
-#### https://www.notion.so/Eric-Yeon-Portfolio-97029a11b30a4afaae92e77f9a5d85e4?pvs=4
+#### [https://www.notion.so/Eric-Yeon-Portfolio-97029a11b30a4afaae92e77f9a5d85e4?pvs=4](https://youthful-thumb-66b.notion.site/Eric-Yeon-Portfolio-97029a11b30a4afaae92e77f9a5d85e4?pvs=4)
 
 
 
