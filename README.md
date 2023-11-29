@@ -7,7 +7,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=richcire)](https://github.com/richcire/github-readme-stats)
 
 # Hello, I'm Eric Yeon
-### Creative and passionate Web Front-end Developer
+### Web Developer
 #### [https://www.notion.so/Eric-Yeon-Portfolio-97029a11b30a4afaae92e77f9a5d85e4?pvs=4](https://youthful-thumb-66b.notion.site/Eric-Yeon-Portfolio-97029a11b30a4afaae92e77f9a5d85e4?pvs=4)
 
 
