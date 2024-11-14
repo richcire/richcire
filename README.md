@@ -16,7 +16,6 @@
 
 
 ## Contact
-* rixhcire@gmail.com
 * eric9907@naver.com
 
 
